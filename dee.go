@@ -19,7 +19,7 @@ type Responses struct {
 func main() {
 
 	// Create a new Discord session using the provided bot token.
-	newSession, err := discordgo.New("Bot " + "MTIxNjA2Nzk4NzA0NDU2NTE5Mw.GG0C9w.UyqpI_8PfLldT7jcup0O2DvUDx1GrCL9teLdXU")
+	newSession, err := discordgo.New("Bot " + "bot Token here")
 	if err != nil {
 		log.Println("Error creating Discord session,", err)
 		return
