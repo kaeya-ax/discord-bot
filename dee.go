@@ -1,6 +1,5 @@
 package main
 
-//Bot Token: MTIxNjA2Nzk4NzA0NDU2NTE5Mw.GG0C9w.UyqpI_8PfLldT7jcup0O2DvUDx1GrCL9teLdXU
 
 import (
 	"encoding/json"
